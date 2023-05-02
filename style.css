@@ -1,0 +1,50 @@
+body{
+	background-color: #f1f1f1;
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+	
+}
+
+.box1{
+	
+}
+
+#menubar
+{
+	position: relative;
+	top: -20px;
+	text-align: center:
+	
+}
+
+
+
+#food_background{
+	float: right;
+	position: relative;
+	top: -190px;
+}
+
+.nav_links {
+	list-style: inline;
+}
+
+.nav_links li {
+	display: inline-block;
+	padding-left: 45px;
+}
+
+.nav_links li a {
+	transition: all 0.3 ease 0s;
+}
+
+.nav_links li a:hover {
+	color: #9384D1;
+}
+
+.icons{
+	float: right;
+	position: relative;
+	top: -30px;
+}
